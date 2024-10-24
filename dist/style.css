@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;  
+}
+
+body{
+    background-color: rgb(60, 60, 90);
+    margin: 0;
+    overflow: hidden;
+}
+
+.hello{
+    
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    color: rgb(255, 241, 160);
+    font-size: 4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
